@@ -2,7 +2,6 @@ bootstrap-select
 ================
 
 [![Latest release](https://img.shields.io/github/release/silviomoreto/bootstrap-select.svg)](https://github.com/silviomoreto/bootstrap-select/releases/latest)
-[![Bower](https://img.shields.io/bower/v/bootstrap-select.svg)]()
 [![npm](https://img.shields.io/npm/v/bootstrap-select.svg)](https://www.npmjs.com/package/bootstrap-select)
 [![NuGet](https://img.shields.io/nuget/v/bootstrap-select.svg)](https://www.nuget.org/packages/bootstrap-select/)
 [![CDNJS](https://img.shields.io/cdnjs/v/bootstrap-select.svg)](https://cdnjs.com/libraries/bootstrap-select)
@@ -15,20 +14,27 @@ Bootstrap-select is a jQuery plugin that utilizes Bootstrap's dropdown.js to sty
 
 <a href="https://silviomoreto.github.io/bootstrap-select/"><img src="https://cloud.githubusercontent.com/assets/2874325/18023324/42cf556c-6bb5-11e6-84ce-35be08ae57ba.gif" alt="bootstrap-select demo"></a>
 
+# HEY YOU! DO YOU WANT TO HELP?
+
+*He are looking for new maintainers on this project. If you think you can help on this, please send me an email to silviomoreto@gmail.com so we can continue improving the community plugin!*
+
 ## Demo and Documentation
 
 You can view a live demo and some examples of how to use the various options [here](https://silviomoreto.github.io/bootstrap-select/examples).
 
 Bootstrap-select's documentation, included in this repo in the root directory, is built with MkDocs and publicly hosted on GitHub Pages at https://silviomoreto.github.io/bootstrap-select. The documentation may also be run locally.
 
+### Bootstrap 4 Support
+
+This version currently does not support Bootstrap 4 officially. We are looking to keep it updated to the new Bootstrap version, do you want to help us?
 
 ### Running documentation locally
 
-1. If necessary, [install MkDocs](http://www.mkdocs.org/#installation).
+1. If necessary, [install MkDocs](https://www.mkdocs.org/#installation).
 3. From the `/bootstrap-select/docs` directory, run `mkdocs serve` in the command line.
 4. Open `http://127.0.0.1:8000/` in your browser, and voilà.
 
-Learn more about using MkDocs by reading its [documentation](http://www.mkdocs.org/).
+Learn more about using MkDocs by reading its [documentation](https://www.mkdocs.org/).
 
 ## Authors
 
@@ -92,7 +98,7 @@ Licensed under [the MIT license](LICENSE).
 * [Thermo Fisher Scientific Inc.](https://www.thermofisher.com)
 * [membermeister](https://www.membermeister.com)
 * [Solve for All](https://solveforall.com)
-* [EstiMATEit](http://www.123itworks.co.uk)
+* [EstiMATEit](https://www.123itworks.co.uk)
 * [Convertizer](https://convertizer.com)
 
 Does your organization use bootstrap-select? Open an issue, and include a link and logo, and you'll be added to the list.
